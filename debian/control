@@ -1,0 +1,12 @@
+Source: python-dateutil
+Section: python
+Priority: extra
+Maintainer: Joe Stump <joe@joestump.net>
+Build-Depends: cdbs, debhelper (>= 6), python (>= 2.5), python-support, python-setuptools
+Standards-Version: 3.8.3
+Homepage: https://github.com/sprintly/dateutil
+
+Package: python-dateutil
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python (>= 2.3)
+Description: The dateutil module provides powerful extensions to the datetime module available in the Python standard library.

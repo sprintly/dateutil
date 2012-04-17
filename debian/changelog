@@ -1,0 +1,5 @@
+python-dateutil (1.5) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Joe Stump <joe@joestump.net>  Sun, 08 Apr 2012 08:49:21 +0000
